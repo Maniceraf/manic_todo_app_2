@@ -1,5 +1,5 @@
 # Todos
 
-![ds drawio (1)](https://github.com/Maniceraf/manic_todo_app_2/assets/78252870/746de3cd-cff6-44ee-ac55-97da19b0a4ce)
+![ds drawio](https://github.com/Maniceraf/manic_todo_app_2/assets/78252870/cd5f7d0c-5b87-49e6-a3b7-3654b5053558)
 
 
