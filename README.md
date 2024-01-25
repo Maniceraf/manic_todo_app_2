@@ -1,10 +1,5 @@
 # Todos
 
-![422278495_1652841952212762_208047967019912510_n](https://github.com/Maniceraf/manic_todo_app_2/assets/78252870/10609cf0-b520-44d1-a8d7-53fe1c90f358)
-![419895855_903378944713094_5941106291864552831_n](https://github.com/Maniceraf/manic_todo_app_2/assets/78252870/9b9beadb-8e83-468d-a2d2-06765c546d39)
-![419628106_759007588974116_6420119535072386233_n](https://github.com/Maniceraf/manic_todo_app_2/assets/78252870/b5a1abfa-c0bd-43c3-94f8-680380bf4c69)
-![419507670_1132133104614409_4757278557048958683_n](https://github.com/Maniceraf/manic_todo_app_2/assets/78252870/226fd5dc-7e71-408e-ad4a-268f26bd946e)
-![419662546_1057735725491250_6089767430378906387_n](https://github.com/Maniceraf/manic_todo_app_2/assets/78252870/a75d7676-cc81-4fec-b937-5d0a818ce84f)
-![419377106_901604718176113_923754877361263815_n](https://github.com/Maniceraf/manic_todo_app_2/assets/78252870/aa4ea214-59cb-46c8-86aa-3683d1801a5e)
-![419628106_759007588974116_6420119535072386233_n](https://github.com/Maniceraf/manic_todo_app_2/assets/78252870/baa213b3-0b97-4a55-8bde-1278767154e9)
+![ds drawio (1)](https://github.com/Maniceraf/manic_todo_app_2/assets/78252870/746de3cd-cff6-44ee-ac55-97da19b0a4ce)
+
 
