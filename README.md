@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the ToDo App, a Flutter project designed to help you keep track of your tasks with a simple and intuitive interface.
+Welcome to the Todos, a Flutter project designed to help you keep track of your tasks with a simple and intuitive interface.
 
 ## Features
 
@@ -51,10 +51,10 @@ flutter run
 
 This project uses the following dependencies:
 
-flutter: The Flutter framework.
-cupertino_icons: Flutter library for iOS icons.
-flutter_test: Flutter package for writing unit tests.
-flutter_lints: Package containing a set of recommended lints to encourage good coding practices.
-sqflite: SQLite plugin for Flutter. Supports iOS, Android and MacOS.
-These dependencies are listed in the pubspec.yaml file.
+- flutter: The Flutter framework.
+- cupertino_icons: Flutter library for iOS icons.
+- flutter_test: Flutter package for writing unit tests.
+- flutter_lints: Package containing a set of recommended lints to encourage good coding practices.
+- sqflite: SQLite plugin for Flutter. Supports iOS, Android and MacOS.
+- These dependencies are listed in the pubspec.yaml file.
 
