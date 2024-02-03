@@ -6,10 +6,11 @@ Welcome to the Todos, a Flutter project designed to help you keep track of your 
 
 ## Features
 
-- Display tasks
-- Add, edit, and delete tasks
-- Mark tasks as completed
-- User-friendly interface
+- Display all tasks.
+- Add a task.
+- Mark a task as completed.
+- Delete a task.
+- User-friendly interface.
 
 ## Screenshots
 
